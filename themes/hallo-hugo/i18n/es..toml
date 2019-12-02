@@ -1,8 +1,8 @@
 [hello]
-other = "@manuelsocias"
+other = "*"
 
 [i-am]
-other = "37 años. Politólogo. Legislador Porteño."
+other = "Manuel Socías. 37 años. Politólogo. Legislador Porteño."
 
 [generator]
-other = "   "
+other = "@manuelsocias"
