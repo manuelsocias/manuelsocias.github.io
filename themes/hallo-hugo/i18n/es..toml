@@ -1,0 +1,8 @@
+[hello]
+other = "Hola"
+
+[i-am]
+other = "Soy"
+
+[generator]
+other = "@manuelsocias"

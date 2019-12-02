@@ -1,6 +1,6 @@
 baseURL = "http://manuelsocias.github.io"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "es"
+defaultContentLanguage = "es"
 title = "MS"
 theme = "hallo-hugo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
