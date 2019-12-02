@@ -9,9 +9,9 @@
             {{- with .Param "greeting" -}}
                 <h1>{{ . }}</h1>
             {{- else -}}
-                <h1>{{ i18n "hello" }}.</h1>
+                <h1>{{ i18n "hello" }}</h1>
             {{- end -}}
-            <h2>{{ i18n "i-am" }} {{ .Site.Author.name | default "Hallo" }}.</h2>
+            <h2>{{ i18n "i-am" }} {{ i18n "other" }}</h2>
             <p>{{- partial "introduction.html" . -}}</p>
 
             <div class="links">
