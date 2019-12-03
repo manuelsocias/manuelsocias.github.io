@@ -14,7 +14,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
-        url = "mailto:manuel.salvador.socias@gmail.com"
+        url = "mailto:manuel.socias@legislatura.gob.ar"
+
+[[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://www.facebook.com/sociasmanuel/"
 
     [[params.links]]
         icon = "instagram"
